@@ -1,0 +1,9 @@
+cfenv
+hdbcli==2.20.23
+openai
+langchain
+langchain-openai
+streamlit
+faiss-cpu
+langchain-community
+docx2txt
